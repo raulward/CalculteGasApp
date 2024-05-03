@@ -46,7 +46,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
             binding.textResult.text = totalValueStr
 
         } else {
-            Toast.makeText(this, R.string.toast_invalid_fields, Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, R.string.invalid_fields, Toast.LENGTH_SHORT).show()
         }
 
 
