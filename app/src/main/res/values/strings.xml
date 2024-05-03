@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CustoDeViagem</string>
+    <string name="distance">Distance</string>
+    <string name="total_of_kilometers">Total of kilometers</string>
+    <string name="price">Price</string>
+    <string name="price_per_litre">Price per litre</string>
+    <string name="autonomy">Autonomy</string>
+    <string name="kilometers_per_litre">Kilometers per litre</string>
+    <string name="your_final_cost">your final cost:</string>
+    <string name="button_calculate">calculate</string>
+    <string name="result">R$ 0</string>
+    <string name="invalid_fields">Please, fill all fields</string>
+</resources>
